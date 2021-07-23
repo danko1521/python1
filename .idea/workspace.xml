@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9851e326-c6d0-498e-825b-f2cdaa1072a0" name="Default Changelist" comment="" />
+    <list default="true" id="9851e326-c6d0-498e-825b-f2cdaa1072a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/first-project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/app/templates/app/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/first_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/first_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/first_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/first_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-project/first_project/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +36,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GYM\PycharmProjects\python1" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -52,6 +77,17 @@
       <updated>1626930669301</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
